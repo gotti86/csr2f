@@ -96,4 +96,4 @@ if __name__ == '__main__':
     manager = Manager()
     manager.run()
 
-    exit(0)
+    exit
